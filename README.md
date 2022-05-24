@@ -41,7 +41,7 @@ I've been learning to code for 2 years, after switching careers.
 
 * 💼  Any freelance work or full-time job ? do reach, [email](mailto:deb1maxime@gmail.com) :)
 
-* 🚀  I'm currently working on [rest-countries-api-with-color-theme-switcher-master](https://github.com/MaxDeb1)
+* 🚀  I'm currently working on [rest-countries-api-with-color-theme-switcher-master](https://github.com/MaxDeb1/rest-countries-api-with-color-theme-switcher)
 
 * 🧠  I'm learning Typescript and "Web 3" :
 
