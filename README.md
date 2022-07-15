@@ -8,26 +8,29 @@ I've been learning to code for 2 years, after switching careers.
 <h2 align="center">Skills</h2>
 
 <p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+  </a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+  </a>
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+  <a href="https://www.typescriptlang.org/">
+    <img width="34" alt="Typescript logo 2020" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/64px-Typescript_logo_2020.svg.png">
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a>
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
   </a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
@@ -41,11 +44,9 @@ I've been learning to code for 2 years, after switching careers.
 
 * 💼  Any freelance work or full-time job ? do reach, [email](mailto:deb1maxime@gmail.com) :)
 
-* 🚀  I'm currently working on [rest-countries-api-with-color-theme-switcher-master](https://github.com/MaxDeb1/rest-countries-api-with-color-theme-switcher)
 
 * 🧠  I'm learning Typescript and "Web 3" :
 
-  <a href="https://www.typescriptlang.org/"><img width="34" alt="Typescript logo 2020" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/64px-Typescript_logo_2020.svg.png"></a> 
   <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" />
   </a>
@@ -73,15 +74,18 @@ I've been learning to code for 2 years, after switching careers.
   </a>
 
 
-### ⚡ Recent repository
-[Live site](https://graceful-strudel-6eea81.netlify.app/)
+### ⚡ Recent repositories
+
 <div width="100%" align="center">
   <a href="https://github.com/MaxDeb1/ecommerce-product-page" align="left">
-    <img align="left" width="45%" src="https://github.com/MaxDeb1/ecommerce-product-page/blob/main/design/desktop-design.jpg" />
+    <img align="left" width="51%" src="https://github.com/MaxDeb1/ecommerce-product-page/blob/main/design/desktop-design.jpg" />
+  </a>
+  <a href="https://github.com/MaxDeb1/rest-countries-api-with-color-theme-switcher" align="right">
+    <img align="right" width="45%" src="https://github.com/MaxDeb1/rest-countries-api-with-color-theme-switcher/blob/master/design/desktop-design-home-dark.jpg" />
   </a>
 </div>
 
-  <br /><br /><br /><br /><br />
+  <br /><br /><br /><br /><br /><br /><br />
   <br /><br /><br /><br /><br /><br /><br />
   
   ### Where to find me
