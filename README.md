@@ -45,7 +45,7 @@ I've been learning to code for 2 years, after switching careers.
 * 💼  Any freelance work or full-time job ? do reach, [email](mailto:deb1maxime@gmail.com) :)
 
 
-* 🧠  I'm learning Typescript and "Web 3" :
+* 🧠  I'm also interested in "Web 3" :
 
   <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" />
