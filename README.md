@@ -64,12 +64,6 @@ I've been learning to code for 2 years, after switching careers.
         </a>
         <br>Node JS
       </td>
-      <td width="96" align="center">
-        <a href="#maxdeb1-tech">
-          <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="GraphQL" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" style="max-width: 100%;" width="48" height="48">
-        </a>
-        <br>PostgreSQL
-      </td>
     </tr>
   </tbody>
 </table>
@@ -81,7 +75,7 @@ I've been learning to code for 2 years, after switching careers.
 </blockquote>
 
 <tbody>
-  <table>
+  <table align="center">
     <tr>
       <td width="96" align="center">
         <a href="#maxdeb1-tech">
@@ -126,7 +120,7 @@ I've been learning to code for 2 years, after switching careers.
 <blockquote>
    <p dir="auto">Tools, languages and other things I would like to try in the future.</p>
 </blockquote>
-<table>
+<table align="center">
   <tbody>
     <td width="96" align="center"> 
       <a href="#maxdeb1-tech">
