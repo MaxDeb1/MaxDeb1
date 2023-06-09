@@ -18,9 +18,9 @@ I've been learning to code for 2 years, after switching careers.
     <tr>
       <td width="96" align="center">
         <a href="#maxdeb1-tech" style="">
-          <img src="https://camo.githubusercontent.com/b4ff7f14956d1e50e56f37992f87c6a73166345ea928b6dbe1140db457b9707b/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672f3130323470782d556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672e706e67" alt="JavaScript" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" style="max-width: 100%;" width="48" height="48">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/410px-Vitejs-logo.svg.png?20220412224743" alt="Vite" data-canonical-src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite.svg" style="max-width: 100%;" width="48" height="48">
         </a>
-        <br>JavaScript
+        <br>Vite
       </td>
       <td width="96" align="center">
         <a href="#maxdeb1-tech">
@@ -45,6 +45,12 @@ I've been learning to code for 2 years, after switching careers.
           <img src="https://camo.githubusercontent.com/77f6f4ed2bcf02341da77ebed65c13650c351a5256739d5f7deb535d2f91ada8/68747470733a2f2f6272616e646c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30392f72656163742d6c6f676f2e706e67" alt="React" data-canonical-src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" style="max-width: 100%;" width="48" height="48">
         </a>
         <br>React JS
+      </td>
+      <td width="96" align="center"> 
+        <a href="#maxdeb1-tech">
+          <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" alt="TanStack" style="max-width: 100%;" width="48" height="48">
+        </a>
+        <br>TanStack
       </td>
       <td width="96" align="center"> 
         <a href="#maxdeb1-tech">
@@ -124,21 +130,9 @@ I've been learning to code for 2 years, after switching careers.
   <tbody>
     <td width="96" align="center"> 
       <a href="#maxdeb1-tech">
-        <img src="https://blog.stackblitz.com/img/quotes/logo-remix.svg" alt="Remix" style="max-width: 100%;" width="48" height="48">
-      </a>
-      <br>Remix
-    </td>
-    <td width="96" align="center"> 
-      <a href="#maxdeb1-tech">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuEjZfn_CZ8ph3FaedJyIif2T0nzJ3dxG7b24uOt-ojsGiMKF6DF_itLRZUSuZPKF7DR8&usqp=CAU" alt="Threejs" style="max-width: 100%;" width="48" height="48">
       </a>
       <br>Threejs
-    </td>
-    <td width="96" align="center"> 
-      <a href="#maxdeb1-tech">
-        <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" alt="TanStack" style="max-width: 100%;" width="48" height="48">
-      </a>
-      <br>TanStack
     </td>
     <td width="126" align="center"> 
         <a href="#maxdeb1-tech">
