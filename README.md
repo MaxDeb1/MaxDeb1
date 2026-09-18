@@ -69,6 +69,12 @@ La Rochelle, France.
         </a>
         <br>Node JS
       </td>
+          <td width="126" align="center"> 
+        <a href="#maxdeb1-tech">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" style="max-width: 100%;" width="48" height="48">
+        </a>
+        <br>React Native
+      </td>
     </tr>
   </tbody>
 </table>
@@ -109,12 +115,6 @@ La Rochelle, France.
       </a>
       <br>Threejs
     </td>
-    <td width="126" align="center"> 
-        <a href="#maxdeb1-tech">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" style="max-width: 100%;" width="48" height="48">
-        </a>
-        <br>React Native
-      </td>
   </tbody>
 </table>
 
